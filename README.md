@@ -183,7 +183,7 @@ All tools return clear error messages:
 ## 🧑‍💻 Run the Server
 
 ```bash
-python main.py
+mcp dev main.py
 ```
 
 Once running, you can use this server with MCP-compatible clients like Claude Desktop or other automation tools.
